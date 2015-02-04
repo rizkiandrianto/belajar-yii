@@ -219,7 +219,7 @@
     </div>
 
 
-<div class="container">
+<div class="container" style="margin-top:80px">
     <div class="row">
         <div class="col-sm-6 col-md-4 col-md-offset-4">
             <!-- <h1 class="text-center login-title">Sign in to continue to Bootsnipp</h1> -->
